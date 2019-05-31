@@ -1,0 +1,16 @@
+{
+    "Name": "LiteCoin",
+    "Desc": "LiteCoin Main Net",
+    "Id": "0xdbb6c0fb",
+    "Port": 9333,
+    "Pver": 70001,
+    "DNSName": "btctseed.zagbot.com",
+    "TTL": 300,
+    "Seeders": [
+        "seed-a.litecoin.loshan.co.uk",
+        "dnsseed.thrasher.io",
+        "dnsseed.litecointools.com",
+        "dnsseed.litecoinpool.org",
+        "dnsseed.koin-project.com"
+    ]
+}

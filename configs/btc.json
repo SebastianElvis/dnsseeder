@@ -8,7 +8,12 @@
     "TTL": 600,
     "Seeders": [
         "dnsseed.bluematt.me",
-        "bitseed.xf2.org",
-        "dnsseed.bitcoin.dashjr.org"
+        "dnsseed.bitcoin.dashjr.org",
+        "seed.bitcoin.sipa.be",
+        "seed.bitcoinstats.com",
+        "seed.bitcoin.jonasschnelli.ch",
+        "seed.btc.petertodd.org",
+        "seed.bitcoin.sprovoost.nl",
+        "dnsseed.emzy.de"
     ]
 }

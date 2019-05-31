@@ -1,0 +1,17 @@
+{
+    "Name": "BitcoinCash",
+    "Desc": "BitcoinCash Main Net",
+    "Id": "0xe8f3e1e3",
+    "Port": 8333,
+    "Pver": 70001,
+    "DNSName": "btctseed.zagbot.com",
+    "TTL": 300,
+    "Seeders": [
+        "seed.bchd.cash",
+        "seed.bitcoinabc.org",
+        "seed-abc.bitcoinforks.org",
+        "btccash-seeder.bitcoinunlimited.info",
+        "seed.bitprim.org",
+        "seed.deadalnix.me"
+    ]
+}
