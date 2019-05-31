@@ -1,12 +1,14 @@
 {
- "Name": "TwisterNet",
- "Desc": "Peer to Peer Microblogging Network",
- "Id": "0xd2bbdaf0",
- "Port": 28333,
- "Pver": 60000,
- "DNSName": "dnsseed.zagbot.com",
- "TTL": 600,
- "Seeder1": "seed2.twister.net.co",
- "Seeder2": "seed.twister.net.co",
- "Seeder3": "seed3.twister.net.co"
+    "Name": "TwisterNet",
+    "Desc": "Peer to Peer Microblogging Network",
+    "Id": "0xd2bbdaf0",
+    "Port": 28333,
+    "Pver": 60000,
+    "DNSName": "dnsseed.zagbot.com",
+    "TTL": 600,
+    "Seeder1": [
+        "seed2.twister.net.co",
+        "seed.twister.net.co",
+        "seed3.twister.net.co"
+    ]
 }

@@ -81,6 +81,11 @@ func crawlIP(s *dnsseeder, r *result) ([]*wire.NetAddress, *crawlError) {
 		if config.debug {
 			log.Printf("%s - debug - %s - Remote version: %v\n", s.name, r.node, msg.ProtocolVersion)
 		}
+		// BIP152 (cmpctblock) has been implemented after 70014
+		// https://bitcoin.org/en/developer-reference#protocol-versions
+		if msg.ProtocolVersion >= 70014 {
+			log.Printf("%s - debug - %s - Remote version: %v\n", s.name, r.node, msg.ProtocolVersion)
+		}
 		// fill the node struct with the remote details
 		r.version = msg.ProtocolVersion
 		r.services = msg.Services

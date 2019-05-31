@@ -1,0 +1,18 @@
+{
+    "Name": "DigiByte",
+    "Desc": "DigiByte Main Net",
+    "Id": "0xdab6c3fa",
+    "Port": 12024,
+    "Pver": 70001,
+    "DNSName": "btcseed.zagbot.com",
+    "TTL": 600,
+    "Seeders": [
+        "seed1.digibyte.io",
+        "seed2.digibyte.io",
+        "seed3.digibyte.io",
+        "seed.digibyte.io",
+        "digihash.co",
+        "digiexplorer.info",
+        "seed.digibyteprojects.com"
+    ]
+}
