@@ -1,0 +1,14 @@
+{
+    "Name": "Ravencoin",
+    "Desc": "Ravencoin Main Net",
+    "Id": "0x4e564152",
+    "Port": 8767,
+    "Pver": 70001,
+    "DNSName": "btctseed.zagbot.com",
+    "TTL": 300,
+    "Seeders": [
+        "seed-raven.bitactivate.com",
+        "seed-raven.ravencoin.com",
+        "seed-raven.ravencoin.org"
+    ]
+}

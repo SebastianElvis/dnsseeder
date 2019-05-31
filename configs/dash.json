@@ -1,0 +1,14 @@
+{
+    "Name": "Dash",
+    "Desc": "Dash Main Net",
+    "Id": "0xbd6b0cbf",
+    "Port": 9999,
+    "Pver": 70001,
+    "DNSName": "btctseed.zagbot.com",
+    "TTL": 300,
+    "Seeders": [
+        "dnsseed.dash.org",
+        "dnsseed.dashdot.io",
+        "dnsseed.masternode.io"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "BitcoinGold",
+    "Desc": "BitcoinGold Main Net",
+    "Id": "0x446d47e1",
+    "Port": 8338,
+    "Pver": 70001,
+    "DNSName": "btctseed.zagbot.com",
+    "TTL": 300,
+    "Seeders": [
+        "eu-dnsseed.bitcoingold-official.org",
+        "dnsseed.bitcoingold.org",
+        "dnsseed.bitcoingold.dev"
+    ]
+}
